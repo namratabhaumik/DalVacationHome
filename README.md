@@ -4,6 +4,11 @@ The DALVacationHome project was developed as part of a collaborative effort by a
 
 Live Project URL: [DALVacationHome](https://dalvacationservice-w6miucx2da-uc.a.run.app/) (Might not work due to maintainance issues - Screenshots added below for reference)
 
+## Medium Links
+
+- [Serverless & Scalable: The Future of Cloud Architecture](https://namrata-bhaumik.medium.com/serverless-scalable-the-future-of-cloud-architecture-8a4ac2968046?source=friends_link&sk=620fc57c60b0487c48d13f13dade7d85)
+- [Transforming Vacation Rentals with Cloud Tech](https://namrata-bhaumik.medium.com/transforming-vacation-rentals-with-cloud-tech-ec3b271f8665?source=friends_link&sk=bae618f3fdb535dc927c6a890ace4abf)
+
 ## Overview
 
 The DALVacationHome project is designed to simplify the management of vacation home rentals by leveraging serverless technologies. The application enables customers to book vacation homes, manage reservations, and communicate concerns, while property managers can efficiently handle bookings, address customer issues, and manage properties.
