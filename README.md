@@ -2,7 +2,7 @@
 
 The DALVacationHome project was developed as part of a collaborative effort by a team of four. The purpose of the project was to create a cloud-based platform that manages vacation home rentals. The application focuses on providing a seamless experience for customers and property managers, integrating multiple cloud services to handle everything from user management to data processing.
 
-Live Project URL: [DALVacationHome](https://dalvacationservice-w6miucx2da-uc.a.run.app/)
+Live Project URL: [DALVacationHome](https://dalvacationservice-w6miucx2da-uc.a.run.app/) (Might not work due to maintainance issues - Screenshots added below for reference)
 
 ## Overview
 
